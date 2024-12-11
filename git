@@ -1,0 +1,44 @@
+# Environment files
+/products-scout-frontend/.env
+/products-scout-frontend/.env.production
+/products-scout-frontend/.env.development
+
+# Node.js modules
+/products-scout-frontend/node_modules/
+
+# Build files
+/products-scout-frontend/build/
+
+/products-scout-frontend/.cache/  # Cache directory causing large files
+
+# Python virtual environment
+/psenv/
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Other
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.swo
+*.~lock.*
+
+# Large files
+*.pack
+*.tar.gz
+*.zip
+*.rar
+*.7z
