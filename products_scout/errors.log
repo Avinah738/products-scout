@@ -1,0 +1,85 @@
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"POST /api//api/check-email/ HTTP/1.1" 500 59
+"POST /api//api/check-email/ HTTP/1.1" 500 59
+"POST /api//api/check-email/ HTTP/1.1" 500 59
+"POST /api//api/check-email/ HTTP/1.1" 500 59
+"POST /api//api/check-email/ HTTP/1.1" 500 59
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"POST /api//api/check-user/ HTTP/1.1" 500 59
+"POST /api//api/check-user/ HTTP/1.1" 500 59
+"POST /api//api/check-user/ HTTP/1.1" 500 59
+"POST /api//api/check-user/ HTTP/1.1" 500 59
+"POST /api//api/register/ HTTP/1.1" 500 59
+"POST /api//api/register/ HTTP/1.1" 500 59
+"POST /check-user/ HTTP/1.1" 500 59
+"POST /api//generate-response/ HTTP/1.1" 500 59
+"POST //generate-response/ HTTP/1.1" 500 59
+"POST //generate-response/ HTTP/1.1" 500 59
+Internal Server Error: /api/generate-response/
+"POST /api/generate-response/ HTTP/1.1" 500 417
+Internal Server Error: /api/generate-response/
+"POST /api/generate-response/ HTTP/1.1" 500 417
+Internal Server Error: /api/generate-response/
+"POST /api/generate-response/ HTTP/1.1" 500 417
+Internal Server Error: /api/generate-response/
+"POST /api/generate-response/ HTTP/1.1" 500 417
+Internal Server Error: /api/generate-response/
+"POST /api/generate-response/ HTTP/1.1" 500 417
+Internal Server Error: /api/generate-response/
+"POST /api/generate-response/ HTTP/1.1" 500 417
+Internal Server Error: /api/generate-response/
+"POST /api/generate-response/ HTTP/1.1" 500 417
